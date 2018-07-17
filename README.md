@@ -1,8 +1,7 @@
-# flutter_basicmaps
+# flutter-basicmaps
 
-A new Flutter project.
+Code for showing how to bring in leaflet maps into your flutter apps.
 
-## Getting Started
+## Further details
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+http://tphangout.com/flutter-maps-and-markers/
